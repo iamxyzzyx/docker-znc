@@ -50,6 +50,7 @@ RUN \
 	--enable-python \
 	--enable-swig \
 	--enable-tcl \
+	--enable-debug \
 	--host=$CHOST \
 	--infodir=/usr/share/info \
 	--localstatedir=/var \
